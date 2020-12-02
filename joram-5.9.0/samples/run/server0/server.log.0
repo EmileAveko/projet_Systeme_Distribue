@@ -1,0 +1,50 @@
+FelixStartLevel WARNING 2020-11-11 17:17:25,243, AgentServer#0, init()
+FelixStartLevel WARNING 2020-11-11 17:17:25,246, Trying to find [a3cmlconfig] using a3-rt [6] class loader.
+FelixStartLevel WARNING 2020-11-11 17:17:25,247, Trying to find serialized config using ClassLoader.getSystemResource().
+FelixStartLevel WARNING 2020-11-11 17:17:25,247, Unable to find configuration file: a3cmlconfig
+FelixStartLevel WARNING 2020-11-11 17:17:25,247, AgentServer#0, serialized a3cmlconfig not found
+FelixStartLevel WARNING 2020-11-11 17:17:25,316, AgentServer#0, initialized at Wed Nov 11 17:17:25 GMT 2020
+FelixStartLevel WARNING 2020-11-11 17:17:25,317, AgentServer#0, start()
+FelixStartLevel WARNING 2020-11-11 17:17:25,392, AgentServer#0, started at Wed Nov 11 17:17:25 GMT 2020
+FelixStartLevel WARNING 2020-11-11 17:19:28,307, AgentServer#0, init()
+FelixStartLevel WARNING 2020-11-11 17:19:28,309, Trying to find [a3cmlconfig] using a3-rt [6] class loader.
+FelixStartLevel WARNING 2020-11-11 17:19:28,309, Trying to find serialized config using ClassLoader.getSystemResource().
+FelixStartLevel WARNING 2020-11-11 17:19:28,310, Unable to find configuration file: a3cmlconfig
+FelixStartLevel WARNING 2020-11-11 17:19:28,310, AgentServer#0, serialized a3cmlconfig not found
+FelixStartLevel WARNING 2020-11-11 17:19:28,373, AgentServer#0, initialized at Wed Nov 11 17:19:28 GMT 2020
+FelixStartLevel WARNING 2020-11-11 17:19:28,374, AgentServer#0, start()
+FelixStartLevel WARNING 2020-11-11 17:19:28,440, AgentServer#0, started at Wed Nov 11 17:19:28 GMT 2020
+FelixStartLevel WARNING 2020-11-11 18:19:45,843, AgentServer#0, init()
+FelixStartLevel WARNING 2020-11-11 18:19:45,848, Trying to find [a3cmlconfig] using a3-rt [6] class loader.
+FelixStartLevel WARNING 2020-11-11 18:19:45,848, Trying to find serialized config using ClassLoader.getSystemResource().
+FelixStartLevel WARNING 2020-11-11 18:19:45,849, Unable to find configuration file: a3cmlconfig
+FelixStartLevel WARNING 2020-11-11 18:19:45,849, AgentServer#0, serialized a3cmlconfig not found
+FelixStartLevel WARNING 2020-11-11 18:19:45,930, AgentServer#0, initialized at Wed Nov 11 18:19:45 GMT 2020
+FelixStartLevel WARNING 2020-11-11 18:19:45,931, AgentServer#0, start()
+FelixStartLevel WARNING 2020-11-11 18:19:46,017, AgentServer#0, started at Wed Nov 11 18:19:46 GMT 2020
+FelixStartLevel WARNING 2020-11-11 19:31:26,712, AgentServer#0, init()
+FelixStartLevel WARNING 2020-11-11 19:31:26,716, Trying to find [a3cmlconfig] using a3-rt [6] class loader.
+FelixStartLevel WARNING 2020-11-11 19:31:26,717, Trying to find serialized config using ClassLoader.getSystemResource().
+FelixStartLevel WARNING 2020-11-11 19:31:26,717, Unable to find configuration file: a3cmlconfig
+FelixStartLevel WARNING 2020-11-11 19:31:26,717, AgentServer#0, serialized a3cmlconfig not found
+FelixStartLevel WARNING 2020-11-11 19:31:26,941, AgentServer#0, initialized at Wed Nov 11 19:31:26 GMT 2020
+FelixStartLevel WARNING 2020-11-11 19:31:26,942, AgentServer#0, start()
+FelixStartLevel WARNING 2020-11-11 19:31:27,033, AgentServer#0, started at Wed Nov 11 19:31:27 GMT 2020
+FelixStartLevel WARNING 2020-11-14 17:04:43,282, AgentServer#0, init()
+FelixStartLevel WARNING 2020-11-14 17:04:43,482, AgentServer#0, initialized at Sat Nov 14 17:04:43 GMT 2020
+FelixStartLevel WARNING 2020-11-14 17:04:43,483, AgentServer#0, start()
+FelixStartLevel WARNING 2020-11-14 17:04:43,493, AgentServer#0, started at Sat Nov 14 17:04:43 GMT 2020
+FelixStartLevel WARNING 2020-11-14 17:13:01,601, AgentServer#0, init()
+FelixStartLevel WARNING 2020-11-14 17:13:01,811, AgentServer#0, initialized at Sat Nov 14 17:13:01 GMT 2020
+FelixStartLevel WARNING 2020-11-14 17:13:01,812, AgentServer#0, start()
+FelixStartLevel WARNING 2020-11-14 17:13:01,822, AgentServer#0, started at Sat Nov 14 17:13:01 GMT 2020
+FelixStartLevel WARNING 2020-11-14 18:13:35,684, AgentServer#0, init()
+FelixStartLevel WARNING 2020-11-14 18:13:35,892, AgentServer#0, initialized at Sat Nov 14 18:13:35 GMT 2020
+FelixStartLevel WARNING 2020-11-14 18:13:35,893, AgentServer#0, start()
+FelixStartLevel WARNING 2020-11-14 18:13:35,904, AgentServer#0, started at Sat Nov 14 18:13:35 GMT 2020
+Engine#0 SEVERE 2020-11-14 18:13:35,907, Engine#0: Unknown agent, #0.0.1032.react(#0.0.11, (fr.dyade.aaa.agent.DeleteNot@2d1b2e08,messageId=null,persistent=true,detachable=false,detached=false,context=null,expiration=0,priority=4,deadNotificationAgentId=null))
+FelixStartLevel WARNING 2020-11-17 20:25:30,322, AgentServer#0, init()
+FelixStartLevel WARNING 2020-11-17 20:25:33,240, AgentServer#0, initialized at Tue Nov 17 20:25:33 GMT 2020
+FelixStartLevel WARNING 2020-11-17 20:25:33,241, AgentServer#0, start()
+FelixStartLevel WARNING 2020-11-17 20:25:33,250, AgentServer#0, started at Tue Nov 17 20:25:33 GMT 2020
+Engine#0 SEVERE 2020-11-17 20:25:33,251, Engine#0: Unknown agent, #0.0.1032.react(#0.0.11, (fr.dyade.aaa.agent.DeleteNot@2d1b2e08,messageId=null,persistent=true,detachable=false,detached=false,context=null,expiration=0,priority=4,deadNotificationAgentId=null))
